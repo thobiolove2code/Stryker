@@ -1,2 +1,3 @@
 # Stryker
-This is a ios project
+
+This is a ios project that is used for Stryker Company
